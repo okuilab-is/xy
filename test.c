@@ -2,4 +2,5 @@
 int main(){
 	int i;
 	printf("yai");
+	int ii;
 }
