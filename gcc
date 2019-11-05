@@ -1,5 +1,5 @@
 #!/bin/sh
 git add .
 git commit -m "new file"
-git remote add origin https://github.com/xyatto/xy.git
+git push origin master
 gcc $*
